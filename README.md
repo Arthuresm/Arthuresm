@@ -9,13 +9,13 @@
 </a>
 
 <a href="https://www.instagram.com/arthuresm/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arthur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 I'm study Computer Engineering at CEFET-MG (Brazil) and I'm in the 7th period.
 
-- 👨🏽‍💻 I’m currently an Developer Chatbots on Customer Success area using Blip
-- 🌱 I'm learning about Machine Learning, specifically Natural Language Processing (NLP)
+- 👨🏽‍💻 I’m currently a **developer of chatbots** on customer success area using Blip
+- 🌱 I'm learning about Machine Learning, specifically **Natural Language Processing** (NLP)
 - 💬❤ I love meeting new people and learning new things
 - 📫 So please email via arthuresm@gmail.com to reach me.
 
