@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Arthur
 
-<!--
-**Arthuresm/Arthuresm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/arthuresm/">
+  <img align="left" alt="Meu linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.kaggle.com/arthurestevao">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/arthuresm/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+I'm study Computer Engineering at CEFET-MG (Brazil) and I'm in the 7th period.
+
+- 👨🏽‍💻 I’m currently an Developer Chatbots on Customer Success area using Blip
+- 🌱 I'm learning about Machine Learning, specifically Natural Language Processing (NLP)
+- 💬❤ I love meeting new people and learning new things
+- 📫 So please email via arthuresm@gmail.com to reach me.
+
+![Prify Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthuresm&hide=["stars"]&show_icons=true)
