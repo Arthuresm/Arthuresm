@@ -12,7 +12,7 @@
   <img align="left" alt="Arthur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-I'm study Computer Engineering at CEFET-MG (Brazil) and I'm in the 7th period.
+I'm study Computer Engineering at CEFET-MG (Brazil) and I'm in the 8th period.
 
 - 👨🏽‍💻 I’m currently a **developer of chatbots** on customer success area using Blip
 - 🌱 I'm learning about Machine Learning, specifically **Natural Language Processing** (NLP)
